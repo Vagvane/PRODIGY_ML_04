@@ -41,6 +41,7 @@ This project aims to classify different hand gestures using a deep learning mode
 
 ## 📁 Project Structure
 gesture-recognition/
+
 ├── gesture_model.keras # Saved model weights
 
 ├── gesture_recognition.ipynb # Main training and evaluation notebook
